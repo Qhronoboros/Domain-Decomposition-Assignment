@@ -2,7 +2,7 @@
 
 <h1>Game: R.E.P.O.</h1>
 
-**<h3>Bo:
+**<h3>Bo Rispens:
 Player Locomotion and Interactions.</h3>**
 
 Ik zat te denken hoe ik zelf zou beginnen met het maken er van. Dit is de eerste keer dat ik een UML maak. Dus wist niet heel goed waar ik moest beginnen.<br>
@@ -10,7 +10,7 @@ Heb eerst een gameplay uitleg van repo bekeken en daarna begonnen met de player 
 Dan heb ik gekeken naar wat je allemaal in het spel kon / waarmee je kon interacten als speler. En vanuit daar ben ik verder gegaan.<br>
 
 
-**<h3>Francisco:
+**<h3>Francisco Ngo:
 Item and Object (Valuables) Variations and Effects.</h3>**
 
 Ik heb al eerder een beetje met UML gewerkt. Dus had ik al een beetje ervaring.<br>
